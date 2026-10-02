@@ -1,0 +1,138 @@
+================================================================================
+GUIA DE IMAGENS E DIMENSÕES RECOMENDADAS
+PROJETO: Dra. Caroline Santos Odontologia (Atibaia - SP)
+PASTA DE DESTINO: c:\Projetos\site-carol-dentista\assets\img\
+================================================================================
+
+LISTA DE IMAGENS DO PROJETO:
+
+--------------------------------------------------------------------------------
+01. FOTO PRINCIPAL (HERO / TOPO DO SITE)  [STATUS: ATUALIZADA E INSTALADA NO PROJETO]
+--------------------------------------------------------------------------------
+- Nome sugerido: dra-caroline-hero.webp (ou .png)
+- Onde aparece: Banner principal logo no início da página
+- Dimensões: 800 x 1000 px
+- Proporção: 4:5 (Vertical / Retrato)
+- Formato: WebP ou PNG
+- Peso ideal: Abaixo de 120 KB
+- Descrição: Foto acolhedora e sorridente da Dra. Caroline Santos, em plano
+  médio (da cintura para cima), fundo clean/neutro ou desfocado. Transmite
+  boas-vindas e empatia para quem acabou de entrar no site.
+
+--------------------------------------------------------------------------------
+02. FOTO SOBRE A PROFISSIONAL (SEÇÃO "SOBRE MIM")  [STATUS: ATUALIZADA E INSTALADA NO PROJETO]
+--------------------------------------------------------------------------------
+- Nome sugerido: dra-caroline-sobre.webp (ou .jpg)
+- Onde aparece: Seção institucional "Sobre a Dra. Caroline Santos"
+- Dimensões: 900 x 1100 px
+- Proporção: 4:5 (Vertical / Retrato)
+- Formato: WebP ou JPG
+- Peso ideal: Abaixo de 140 KB
+- Descrição: Foto no ambiente clínico (ao lado da cadeira odontológica,
+  analisando planejamento digital ou com jaleco/scrub profissional).
+  Transmite autoridade, precisão técnica e compromisso com o paciente.
+
+--------------------------------------------------------------------------------
+03. FACHADA E ACESSIBILIDADE DO CONSULTÓRIO
+--------------------------------------------------------------------------------
+- Nome sugerido: consultorio-fachada.webp (ou .jpg)
+- Onde aparece: Banner na seção de Diferenciais & Acessibilidade
+- Dimensões: 1200 x 800 px
+- Proporção: 3:2 (Horizontal)
+- Formato: WebP ou JPG
+- Peso ideal: Abaixo de 120 KB
+- Descrição: Foto externa do consultório térreo em Atibaia evidenciando a vaga
+  privativa de estacionamento e a rampa suave de acesso sem barreiras.
+
+--------------------------------------------------------------------------------
+04. ARTIGO 1 - EXAMES E TOMOGRAFIA
+--------------------------------------------------------------------------------
+- Nome sugerido: artigo-tomografia.webp (ou .jpg)
+- Onde aparece: 1º Card do Guia do Paciente / Artigos
+- Dimensões: 800 x 450 px
+- Proporção: 16:9 (Horizontal Widescreen)
+- Formato: WebP ou JPG
+- Peso ideal: Abaixo de 80 KB
+- Descrição: Radiografia panorâmica, tomografia 3D odontológica ou planejamento
+  digital de implante dentário guiado por computador.
+
+--------------------------------------------------------------------------------
+05. ARTIGO 2 - VANTAGENS DO IMPLANTE DENTÁRIO
+--------------------------------------------------------------------------------
+- Nome sugerido: artigo-implante.webp (ou .jpg)
+- Onde aparece: 2º Card do Guia do Paciente / Artigos
+- Dimensões: 800 x 450 px
+- Proporção: 16:9 (Horizontal Widescreen)
+- Formato: WebP ou JPG
+- Peso ideal: Abaixo de 80 KB
+- Descrição: Foto de sorriso saudável reabilitado, mastigação confiante ou
+  modelo anatômico de implante de alta qualidade.
+
+--------------------------------------------------------------------------------
+06. ARTIGO 3 - ETAPAS E PASSO A PASSO
+--------------------------------------------------------------------------------
+- Nome sugerido: artigo-passo-a-passo.webp (ou .jpg)
+- Onde aparece: 3º Card do Guia do Paciente / Artigos
+- Dimensões: 800 x 450 px
+- Proporção: 16:9 (Horizontal Widescreen)
+- Formato: WebP ou JPG
+- Peso ideal: Abaixo de 80 KB
+- Descrição: Consulta odontológica humanizada, etapas de moldagem digital
+  ou prótese dental definitiva.
+
+--------------------------------------------------------------------------------
+07. LOGOTIPO PRINCIPAL (HEADER E FOOTER)
+--------------------------------------------------------------------------------
+- Nome sugerido: logo.webp (ou .png)
+- Onde aparece: Barra de navegação superior (cabeçalho) e rodapé
+- Dimensões: 600 x 300 px (renderiza em 300 x 150 px em telas Retina)
+- Proporção: 2:1 (Retangular Horizontal)
+- Formato: WebP ou PNG (Fundo Transparente)
+- Peso ideal: Abaixo de 30 KB
+- Descrição: Logotipo vetorial oficial nítido com tipografia dourada/cinza.
+
+--------------------------------------------------------------------------------
+08. ÍCONE DE NAVEGADOR (FAVICON)  [STATUS: JÁ CRIADO E INSTALADO NO PROJETO]
+--------------------------------------------------------------------------------
+- Arquivos gerados:
+  * assets/img/favicon.svg (Vetor puro escalável com suporte a abas claras/escuras)
+  * assets/img/favicon.png (512x512 px com fundo transparente)
+  * assets/img/favicon-192.png (192x192 px com fundo transparente - Android)
+  * assets/img/apple-touch-icon.png (180x180 px - iOS / Safari)
+  * favicon.ico (raiz e pasta img)
+- Design: Dente minimalista em dourado champanhe/bronze metálico (#B8956E),
+  silhueta anatômica proporcional, bordas maximizadas e fundo 100% transparente.
+- Configuração no index.html: Já atualizado e ativo!
+
+--------------------------------------------------------------------------------
+09. CARD DE COMPARTILHAMENTO (WHATSAPP & REDES SOCIAIS - OPEN GRAPH)
+--------------------------------------------------------------------------------
+- Nome sugerido: og-share.jpg (ou .png)
+- Onde aparece: Miniatura quando o link do site é enviado no WhatsApp/Facebook
+- Dimensões: 1200 x 630 px
+- Proporção: 1.91:1 (Horizontal)
+- Formato: JPG ou WebP
+- Peso ideal: Abaixo de 150 KB
+- Descrição: Card horizontal profissional contendo foto da Dra. Carol + logo +
+  texto claro: "Dra. Caroline Santos | Implantes e Odontologia em Atibaia".
+
+--------------------------------------------------------------------------------
+10. ITEM EXTRA (OPCIONAL) - SCANNER INTRAORAL 3D
+--------------------------------------------------------------------------------
+- Nome sugerido: scanner-3d-medit.png (ou .webp)
+- Onde aparece: Seção de diferenciais tecnológicos / Odontologia Digital
+- Dimensões: 600 x 600 px
+- Proporção: 1:1 (Quadrado com fundo transparente)
+- Formato: PNG ou WebP
+- Peso ideal: Abaixo de 50 KB
+- Descrição: Scanner Medit i600 com ponta óptica para moldagem digital sem massinha.
+
+================================================================================
+DICAS PARA OTIMIZAR ANTES DE SUBIR:
+1. Ferramentas gratuitas recomendadas para converter e reduzir peso:
+   - https://squoosh.app (Google)
+   - https://tinypng.com
+2. Formato WebP: Oferece a melhor qualidade com até 80% menos peso que JPG/PNG.
+3. Assim que subir as fotos na pasta "assets/img/", basta me avisar para eu
+   vincular os caminhos no index.html.
+================================================================================

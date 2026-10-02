@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="86.3 109.8 339.6 339.6" width="100%" height="100%">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D6B690" />
+      <stop offset="50%" stop-color="#B8956E" />
+      <stop offset="100%" stop-color="#9A7751" />
+    </linearGradient>
+  </defs>
+  <!-- Fundo 100% transparente com dente dourado luxo -->
+  <path fill="url(#goldGradient)" d="
+    M 256,145
+    C 232,130 205,120 180,120
+    C 140,120 108,150 108,195
+    C 108,240 125,265 140,285
+    C 155,335 170,385 185,430
+    C 192,442 208,442 215,430
+    C 228,395 242,345 256,315
+    C 270,345 284,395 297,430
+    C 304,442 320,442 327,430
+    C 342,385 357,335 372,285
+    C 387,265 404,240 404,195
+    C 404,150 372,120 332,120
+    C 307,120 280,130 256,145
+    Z
+  "/>
+</svg>
