@@ -13,6 +13,10 @@ AddDefaultCharset UTF-8
     RewriteEngine On
     RewriteBase /
 
+    # Redirecionar WWW para SEM WWW (Canônico e unificação)
+    RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+    RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
     # Forçar HTTPS
     RewriteCond %{HTTPS} off
     RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
