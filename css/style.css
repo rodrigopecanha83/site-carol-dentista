@@ -365,6 +365,24 @@ ul, ol {
   overflow: hidden;
 }
 
+.hero-brand-header {
+  text-align: center;
+  margin-bottom: 36px;
+}
+
+.hero-brand-name {
+  font-family: var(--font-heading);
+  font-size: clamp(2.15rem, 3.8vw, 3.15rem);
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+  color: var(--color-charcoal-900);
+}
+
+.hero-brand-name .brand-accent {
+  color: var(--color-gold-darker);
+}
+
 .hero-grid {
   display: grid;
   grid-template-columns: 1.15fr 0.85fr;
@@ -374,14 +392,15 @@ ul, ol {
 
 .hero-content {
   max-width: 620px;
+  order: 1;
 }
 
 .hero-title {
   font-family: var(--font-heading);
-  font-size: clamp(2.35rem, 4.2vw, 3.4rem);
+  font-size: clamp(1.95rem, 3.2vw, 2.65rem);
   font-weight: 800;
-  line-height: 1.15;
-  letter-spacing: -0.025em;
+  line-height: 1.18;
+  letter-spacing: -0.02em;
   color: var(--color-charcoal-900);
   margin-bottom: 20px;
 }
@@ -439,6 +458,7 @@ ul, ol {
   position: relative;
   display: flex;
   justify-content: center;
+  order: 2;
 }
 
 .hero-image-frame {
@@ -1339,13 +1359,28 @@ ul, ol {
    RESPONSIVIDADE (MOBILE-FIRST POLISH)
    ========================================================================== */
 @media (max-width: 992px) {
+  .hero-brand-header {
+    margin-bottom: 24px;
+  }
+
+  .hero-brand-name {
+    font-size: clamp(1.85rem, 5.5vw, 2.35rem);
+  }
+
   .hero-grid {
-    grid-template-columns: 1fr;
+    display: flex;
+    flex-direction: column;
     text-align: center;
-    gap: 40px;
+    gap: 32px;
+  }
+
+  .hero-image-wrapper {
+    order: 1;
+    width: 100%;
   }
 
   .hero-content {
+    order: 2;
     max-width: 100%;
     margin: 0 auto;
   }
@@ -1432,8 +1467,12 @@ ul, ol {
     display: none; /* Deixar foco na navegação e botão flutuante */
   }
 
+  .hero-brand-name {
+    font-size: clamp(1.65rem, 6vw, 2.05rem);
+  }
+
   .hero-title {
-    font-size: 2.15rem;
+    font-size: 1.85rem;
   }
 
   .stats-grid {
